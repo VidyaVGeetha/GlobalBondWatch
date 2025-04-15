@@ -1,4 +1,4 @@
-# 📈 Global 10-Year Government Bond Yield Comparison (Last 5 Years)
+# 📈 Global 5-Year Government Bond Yield Comparison (Last 5 Years)
 
 This project analyzes and visualizes the trends in 10-year government bond yields across key global economies over the past five years. The script pulls data from Yahoo Finance (US) and the Federal Reserve Economic Data (FRED) API for other countries, then generates a comparative line chart and summary statistics.
 
